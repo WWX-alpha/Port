@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604389289 source:d:\2020.11.03gradesmarkiii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1604401440 source:d:\test\2020.11.03gradesmarkiii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
